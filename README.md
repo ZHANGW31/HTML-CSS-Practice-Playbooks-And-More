@@ -7,6 +7,6 @@ This repository will used to track, and maintain all of the HTML code I will be 
 
 What I plan on putting in here:
 
--Practice Projects
--Creations
--Playbooks
+- Practice Projects  
+- Creations  
+- Playbooks  
