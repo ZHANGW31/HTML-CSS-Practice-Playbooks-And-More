@@ -1,2 +1,28 @@
 /*positioning practice and demonstration*/
+/*Using relative position creates a "ghost of the original position and sets a new position of the element. Note that it may overlap other positions."*/
+.red {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    position: relative;
+    left: 200px;
+    display: inline-block;
+}
 
+.blue {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    display: inline-block;
+    position: relative;
+    right: 100px;
+}
+
+.yellow {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    display: inline-block;
+    position: relative;
+    right: 100px;
+}
