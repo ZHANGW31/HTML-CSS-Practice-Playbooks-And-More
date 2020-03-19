@@ -1,5 +1,8 @@
 /*positioning practice and demonstration*/
 /*Using relative position creates a "ghost of the original position and sets a new position of the element. Note that it may overlap other positions."*/
+/*Using absolute position is relative to the parent of the element. For example  <body><img></img></body> The image element here is a child of the body element therefore any
+position changes such as left , right, top or bottom, it will be relative to the parent. */
+
 .red {
     height: 100px;
     width: 100px;
@@ -7,6 +10,7 @@
     position: relative;
     left: 200px;
     display: inline-block;
+    
 }
 
 .blue {
@@ -26,3 +30,4 @@
     position: relative;
     right: 100px;
 }
+
