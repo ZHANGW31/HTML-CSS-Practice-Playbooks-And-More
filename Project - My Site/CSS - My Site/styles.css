@@ -28,17 +28,6 @@ h3 {
     padding-top: 100px;
 }
 
-.middle-container {
-    background-color: blue;
-    width: 200px;
-    height: 200px;
-}
-
-.bottom-container {
-    background-color: aquamarine;
-    width: 200px;
-    height: 200px;
-}
 
 .top-cloud {
     position: absolute;
